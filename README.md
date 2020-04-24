@@ -26,5 +26,5 @@ jurosStatus2:
     - Verifica de os depósitos são valorizados adequadamente quando a conta atinge o nível.
 
 ## Relatório de defeitos
-    Inicialmente tivemos falhas ao testar os depósitos, pois havíamos considerado que a conta deveria se tornar Gold ao obter saldo MAIOR que 50.000. O teste de valor limite nos ajudou a verificar este erro e corrigi-lo.
-    Ao fazer a análise de cobertura percebemos que não havíamos testado a valorização de 2,5% dos depósitos das contas Platinum, então incluimos o método jurosStatus2.
+Inicialmente tivemos falhas ao testar os depósitos, pois havíamos considerado que a conta deveria se tornar Gold ao obter saldo MAIOR que 50.000. O teste de valor limite nos ajudou a verificar este erro e corrigi-lo.
+Ao fazer a análise de cobertura percebemos que não havíamos testado a valorização de 2,5% dos depósitos das contas Platinum, então incluimos o método jurosStatus2.
