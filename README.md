@@ -1,6 +1,6 @@
-## TrabalhoMavenTests
+# TrabalhoMavenTests
 
-# Relatório de Testes:
+## Relatório de Testes:
 verificaSaldoAposDeposito:
     - Verfica se após dois depósitos, de 50.000 e 200.000(1%) obtem-se o valor esperado (252.000).
 
